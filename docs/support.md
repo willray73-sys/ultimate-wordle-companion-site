@@ -9,9 +9,8 @@ title: Ultimate Wordle Companion — Support
 Welcome! This is the official support page for **Ultimate Wordle Companion**.
 
 ## Quick Links
-- **Privacy Policy:** ./privacy
-- **Report an issue (GitHub):** https://github.com/willray73-sys/ultimate-wordle-companion/issues
-- **Contact email:** support@pixelquill.io
+- **Privacy Policy:** [./privacy](https://willray73-sys.github.io/ultimate-wordle-companion-site/privacy)
+- **Contact email:** [./support@pixelquill.io](mailto:support@pixelquill.io)
 
 ## Common Questions
 
