@@ -1,4 +1,4 @@
 # Wordler Companion — Help
 
-- **Support:** [./support](https://willray73-sys.github.io/ultimate-wordle-companion-site/support)
-- **Privacy Policy:** [./privacy](https://willray73-sys.github.io/ultimate-wordle-companion-site/privacy)
+- **Support:** [./support](https://github.com/willray73-sys/wordler-companion-site/support)
+- **Privacy Policy:** [./privacy](https://github.com/willray73-sys/wordler-companion-site/privacy)
