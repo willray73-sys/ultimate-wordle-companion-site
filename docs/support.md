@@ -1,7 +1,7 @@
 ---
-title: Wordler Companion — Support
+title: WordSolver for 5-Letter Puzzles — Support
 ---
-# Wordler Companion — Support
+# WordSolver — Support
 
 **App ID:** com.pixelquill.wordlecomp  
 **Platforms:** iOS & Android
